@@ -1,0 +1,2 @@
+# Introduction-to-Neural-Network-and-Deep-Learning-
+Using Neural Network and Deep Learning tools to get the best out of the data.  Deep learning is a subfield of machine learning, and neural networks make up the backbone of deep learning algorithms. In fact, it is the number of node layers, or depth, of neural networks that distinguishes a single neural network from a deep learning algorithm, which must have more than three.
